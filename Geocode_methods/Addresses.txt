@@ -1,0 +1,7 @@
+ID;Name;Address
+1;Rautatieasema;Kaivokatu 1, Helsinki, Finland
+2;Academic Bookstore;Keskuskatu 1, Helsinki,Finland
+3;Physicum;Gustaf Hällströmin katu 2b, 00560 Helsinki, Finland
+4;AIR;131 Dartmouth Street, Cambridge, MA, USA
+5;Royal Sonesta;40 Edwin H Land Blvd, Cambridge, MA, USA
+6;Vasa Museum;Galärvarvsvägen, 14,Stockholm,Sweden
